@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PrimerEjemplo</string>
     <string name="tituloPrincipal">Octavo Sistemas FISEI</string>
@@ -7,5 +8,4 @@
     <string name="button_potencia">Potencia</string>
     <string name="edittext_hint_base">Ingrese la base</string>
     <string name="edittext_hint_exponente">Ingrese el exponente</string>
-
 </resources>
